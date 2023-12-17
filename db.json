@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin Jyothi",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "2",
+      "name": "jyothi",
+      "email": "jyothi@gmail.com",
+      "active": "1"
+    },
+    {
+      "name": "Supriya",
+      "id": "3",
+      "email": "Supriya@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Anjali",
+      "email": "Anjali@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "5",
+      "name": "Sree",
+      "email": "Sree@gmail.com",
+      "active": "2"
+    },
+    {
+      "id": "6",
+      "name": "Litty",
+      "email": "litty@gmail.com",
+      "active": "2"
+    },
+    {
+      "id": "7",
+      "name": "Sarath",
+      "email": "sarath@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "9",
+      "name": "Karan",
+      "email": "karan@gmail.com",
+      "active": "2"
+    },
+    {
+      "id": "11",
+      "name": "prithvi",
+      "email": "prithvi@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "12",
+      "name": "Manoop",
+      "email": "manoop@gmail.com",
+      "active": "2"
+    },
+    {
+      "id": "13",
+      "name": "Jo",
+      "email": "jo@gmail.com",
+      "active": "1"
+    }
+  ]
+}
